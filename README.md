@@ -5,8 +5,11 @@ Building a feedback collection system that collects the users feedback. The soft
 project link
 
 project work layout 
-feedback01
+feedbac<img width="756" height="428" alt="feedback01" src="https://github.com/user-attachments/assets/c412ab8e-139d-4cc5-b8f3-fde4d7b59215" />
+k01
 
-feedback02 
+feedb<img width="507" height="432" alt="feedback02" src="https://github.com/user-attachments/assets/2192077c-e3ff-47b6-8e19-bab723e59b66" />
+ack02 
 
-feedback03
+feedback<img width="945" height="396" alt="feedback03" src="https://github.com/user-attachments/assets/0c63b7b6-1dbe-4526-b4eb-fdc214a3ec6d" />
+03
