@@ -4,7 +4,7 @@ Building a feedback collection system that collects the users feedback. The soft
 
 **project link**
 
-[feedback-collection-system.vercel.app](feedback-collection-system.vercel.app)
+[feedback-collection-system.vercel.app](https://feedback-collection-system.vercel.app)
 
 **project work layout**
 
