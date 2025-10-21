@@ -4,6 +4,8 @@ Building a feedback collection system that collects the users feedback. The soft
 
 project link
 
+feedback-collection-system.vercel.app
+
 project work layout 
 
 <img width="756" height="428" alt="feedback01" src="https://github.com/user-attachments/assets/c412ab8e-139d-4cc5-b8f3-fde4d7b59215" />
