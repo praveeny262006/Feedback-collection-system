@@ -2,7 +2,7 @@
 
 Building a feedback collection system that collects the users feedback. The software requirement specification (srs) of this project is simple; authenticate users, multi-channel accessibility, and notification system for timely updates. Administrators benefits from analytical tools, feedback tracking and integration capabilities.
 
-**project link**
+## project link
 
 [feedback-collection-system.vercel.app](https://feedback-collection-system.vercel.app)
 
