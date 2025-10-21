@@ -1,10 +1,10 @@
-****Feedback collection system****
+# Feedback collection system-
 
 Building a feedback collection system that collects the users feedback. The software requirement specification (srs) of this project is simple; authenticate users, multi-channel accessibility, and notification system for timely updates. Administrators benefits from analytical tools, feedback tracking and integration capabilities.
 
 **project link**
 
-(feedback-collection-system.vercel.app)
+[this is a link](feedback-collection-system.vercel.app)
 
 **project work layout**
 
@@ -19,7 +19,7 @@ Building a feedback collection system that collects the users feedback. The soft
 
 **Use Cases**
 
-1.Educational institutions collecting course/teacher feedback from students.
-2.Departments wanting quick sentiment-based overview of feedback trends.
-3.Researchers analysing feedback text to extract insights about teaching quality or student sentiment.
+1. Educational institutions collecting course/teacher feedback from students.
+2. Departments wanting quick sentiment-based overview of feedback trends.
+3. Researchers analysing feedback text to extract insights about teaching quality or student sentiment.
 
